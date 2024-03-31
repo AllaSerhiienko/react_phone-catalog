@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.14b076b6.chunk.css",
-    "main.js": "./static/js/main.b175b14c.chunk.js",
-    "main.js.map": "./static/js/main.b175b14c.chunk.js.map",
+    "main.css": "./static/css/main.43fe321a.chunk.css",
+    "main.js": "./static/js/main.ea473940.chunk.js",
+    "main.js.map": "./static/js/main.ea473940.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
-    "static/js/2.afeaa552.chunk.js": "./static/js/2.afeaa552.chunk.js",
-    "static/js/2.afeaa552.chunk.js.map": "./static/js/2.afeaa552.chunk.js.map",
+    "static/js/2.b453656a.chunk.js": "./static/js/2.b453656a.chunk.js",
+    "static/js/2.b453656a.chunk.js.map": "./static/js/2.b453656a.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.14b076b6.chunk.css.map": "./static/css/main.14b076b6.chunk.css.map",
-    "static/js/2.afeaa552.chunk.js.LICENSE.txt": "./static/js/2.afeaa552.chunk.js.LICENSE.txt",
-    "static/media/CartItem.scss": "./static/media/search.eb670dd9.svg"
+    "static/css/main.43fe321a.chunk.css.map": "./static/css/main.43fe321a.chunk.css.map",
+    "static/js/2.b453656a.chunk.js.LICENSE.txt": "./static/js/2.b453656a.chunk.js.LICENSE.txt",
+    "static/media/ProductInfo.scss": "./static/media/search.eb670dd9.svg",
+    "static/media/CartItem.scss": "./static/media/cross-disabled.6e7f15f7.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
-    "static/js/2.afeaa552.chunk.js",
-    "static/css/main.14b076b6.chunk.css",
-    "static/js/main.b175b14c.chunk.js"
+    "static/js/2.b453656a.chunk.js",
+    "static/css/main.43fe321a.chunk.css",
+    "static/js/main.ea473940.chunk.js"
   ]
 }
